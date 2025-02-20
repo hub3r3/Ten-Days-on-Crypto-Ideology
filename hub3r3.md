@@ -8,9 +8,9 @@ timezone: Asia/Shanghai
 
 # {hub3r3}
 
-1. 自我介绍
-2. 你认为你会完成本次残酷学习吗？yes
-3. 你的联系方式（推荐 Telegram）
+1. 小白一枚
+2. 努力学习
+3. 你的联系方式
 
 ## Notes
 
