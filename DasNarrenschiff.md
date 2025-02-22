@@ -77,7 +77,13 @@ https://cush.mirror.xyz/nFmYxl7DkZF655eCFz7Z4QlrOZ5ycg7Ny5gDcMpQ-tQ
 
 ### 2025.02.22
 
+参加了 unco 的密码松，写了个很简单的 py 加密解密算法：
 
+![image](https://github.com/user-attachments/assets/4ab0730c-1162-4fa6-8671-99d8d70ed1d4)
+
+![image](https://github.com/user-attachments/assets/6d0ca975-b710-49bd-a38f-7833df2ee492)
+
+密码是锟斤拷，取编码之后模了个数（Unicode 最接近康熙部首字段末尾的整数，破译的提示词是一句康熙的诗），然后循环偏移原文，把原文变成看上去乱码的汉字，像是锟斤拷lol，也像是装死，很多时候 zk 的使用场景就是老百姓在官府面前装死 lol 
 
 ### 2025.02.23
 
