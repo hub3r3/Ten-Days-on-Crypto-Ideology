@@ -69,6 +69,9 @@ Quote: 我们需要把 zachXBT 变成 ZK⁠⁠⁠⁠，我们需要使用数学�
 老王賣瓜一下的貼上Devcon 7 的文章連結：https://blog.uncommons.cc/devcon7-story/
 
 ### 2025.02.23
+今日讀 Vitalik Buterin：我的技术乐观主义
+裡面提到e/acc 的效率加速主義可能會帶讓AI發展成超級物種，與人類競爭。
+而d/acc的 去中心化、民主與防禦的手段才有可能能在不遏制技術發展的情況下，朝對人類有長遠益處的方向前進。
 
 
 <!-- Content_END -->
