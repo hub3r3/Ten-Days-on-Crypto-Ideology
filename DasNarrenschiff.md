@@ -87,4 +87,12 @@ https://cush.mirror.xyz/nFmYxl7DkZF655eCFz7Z4QlrOZ5ycg7Ny5gDcMpQ-tQ
 
 ### 2025.02.23
 
+今天在想 MyFirstMeme 的事情，比起做历史科普，让用户自己走出一个未来是更有吸引力的
+
+https://lxdao.notion.site/MyFirstMeme-Idea-0f0a0e8edf314e5aa19539632d69adba?pvs=4
+
+### 2025.02.24
+
+屁股决定脑袋这个事情无处不在，像是一条定律，若是把屁股“没有决定脑袋”的人物和事情串在一起，以科恩兄弟的形式，一定会是一场好玩的探险
+
 <!-- Content_END -->
