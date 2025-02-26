@@ -56,4 +56,13 @@ Aya Miyaguchi 认为`保持以太坊的有趣，就在于让我们记住一起�
 - 加密货币的历史，是从“无政府狂热”走向“有限成熟”的历程——它未能颠覆传统体系，但以独特的抗审查性与全球流动性，在数字时代的经济版图中刻下不可逆的坐标。ICO、DeFi 与 NFT 浪潮洗去投机者，留下真正需求（价值存储、跨境支付、数字产权）。
 - I can hope for less noise and insanity, but let’s face it - that’s never going to happen. 
 
+### 2025.02.26
+阅读：https://polynya.mirror.xyz/wDwSnbtuu7WT15nzck8N6Jk3HleoJRBndg26QSi3ebc
+
+当满足三个条件时，区块链应用才有意义：🤔
+- 严格的全球共识 (strict global consensus)
+  - 对等 (peer-to-peer)
+  - 客观的输出 (objective outputs)
+- 要实现严格的全球共识，你需要点对点，只能通过客观的应用程序来完成。
+
 <!-- Content_END -->
