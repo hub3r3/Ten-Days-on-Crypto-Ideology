@@ -65,4 +65,12 @@ Aya Miyaguchi 认为`保持以太坊的有趣，就在于让我们记住一起�
   - 客观的输出 (objective outputs)
 - 要实现严格的全球共识，你需要点对点，只能通过客观的应用程序来完成。
 
+### 2025.02.27
+阅读：https://collective.flashbots.net/t/decentralizing-power-the-great-community/2829
+
+有意思的视角：Democracy is the name for “a life of free and enriching communion.
+
+MEV is a problem all users of any blockchain must eventually face and, as a result, MEV calls into being a public that transcends any particular ideology, a.k.a. “The Great Community”. Working on MEV is how we participate in a public which transcends any particular political agenda such that we can maintain the meta-political agenda of permissionlessness and censorship resistance.
+
+
 <!-- Content_END -->
