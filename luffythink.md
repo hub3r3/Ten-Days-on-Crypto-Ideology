@@ -72,5 +72,15 @@ Aya Miyaguchi 认为`保持以太坊的有趣，就在于让我们记住一起�
 
 MEV is a problem all users of any blockchain must eventually face and, as a result, MEV calls into being a public that transcends any particular ideology, a.k.a. “The Great Community”. Working on MEV is how we participate in a public which transcends any particular political agenda such that we can maintain the meta-political agenda of permissionlessness and censorship resistance.
 
+### 2025.02.28
+阅读：https://iyouport.substack.com/p/278
+
+在 97% 的人类历史中，所有人都拥有大致相同的权力和获取商品的途径。
+
+平等的、合作的人类社区是可能的。广泛的分享和协商一致的决策并不违背 “人性”（不管你认为人性是什么）。事实上，在人类历史的大部分时间里，我们都生活在这样的社会里。但这样的社会并不具有内在的稳定性。这些社会实践有赖于积极的防御。
+
+我们不可能回到更新世的平等，很多人也不会接受那种生活的社会亲密性和物质简单性。但我们确实有新的社会技术。而值得警惕的是，包括中国在内的很多国家正在展示这些新的社会技术如何被用来加强精英的监控。让我们希望它们能够被重新配置，`以支持更多自下而上的社会行动`，以减轻财富和权力不平衡的一些影响。
+
+任重 DAO 不远。
 
 <!-- Content_END -->
