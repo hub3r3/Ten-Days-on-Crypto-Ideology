@@ -142,16 +142,15 @@ https://github.com/IntensiveCoLearning/Ten-Days-on-Crypto-Ideology/tree/cb7a3f97
 <!-- END_COMMIT_TABLE -->
 
 
+
 <!-- STATISTICALDATA_START -->
-
-
 ## 统计数据
 
-- 总参与人数: 
-- 完成人数: 
-- 完成用户: 
-- 全勤用户: 
-- 淘汰人数: 0
-- 淘汰率: 0.00%
-- Fork人数: 0
+- 总参与人数: 24
+- 完成人数: 10
+- 完成用户: hub3r3, CHENFANGC, DarkingLee, easyshellworld, minye420, JacksonStack, lilian79511, JL_Lelouch, luffythink, DasNarrenschiff
+- 全勤用户: hub3r3, DarkingLee, easyshellworld
+- 淘汰人数: 14
+- 淘汰率: 58.33%
+- Fork人数: 24
 <!-- STATISTICALDATA_END -->
